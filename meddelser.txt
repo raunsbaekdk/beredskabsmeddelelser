@@ -1,0 +1,83 @@
+2002, Frederikssund, kemisk virksomhed, udslip af giftig luftart (marts)
+2004, Køge, brand i kemifabrik (marts)
+2004, Kolding, fyrværkeribrand, (november), 2 varslinger
+2006, Tistrup, brand i trævarefabrik (februar)
+2006, Kolding, brand i skrotlager (oktober)
+2007, Køge, forurenet drikkevand (januar)
+2007, Korsør, brand i glasfiberfabrik (juni)
+2007, Holbæk, brand i fabrik - "flamingoemballage" (juli)
+2007, Skive, brand i slagteri (juli)
+2007, Vojens, udslip af ammoniak (oktober)
+2008, Svendborg, brand i butik i storcenter (januar)
+2008, Svendborg, brand i autoværksted (maj)
+2008, Fredericia, brand solcenter (maj)
+2008, Kolding, brand i affald (maj)
+2008, Galten, brand i kemikalievirksomhed (juni)
+2008, Esbjerg, brand i skib (juni)
+2008, Slagelse, brand i genbrugscenter (juli)
+2008, Herlev, brand i lagerbygning (juli)
+2008, Kerteminde, brand i beboelsesejendom (august)
+2008, Hårlev, brand i plastfabrik (november)
+2009, Greve, vandforurening (august)
+2009, Frederiksværk, brand i autoværksted (september)
+2009, Odense, brand på skole (september)
+2010, København, meddelelse om usikker is (januar)
+2010, Horsens, brand i madrasfabrik (februar)
+2010, Holbæk, brand i transformerstation (juli)
+2010, Kagerup, brand i mødding (august)
+2010, Jyderup, brand i værksted (oktober)
+2010, Taulov, kemikalieudslip (december), 2 varslinger
+2011, Stenløse, brand i autoværksted (januar), 3 varslinger
+2011, Midt- & Vestsjælland, stormvarsel (februar), kun beredskabsmeddelelse
+2011, Rødbyhavn, brand i medicinalvarefabrik (marts)
+2011, Frederikshavn, brand i skib (marts), kun beredskabsmeddelelse
+2011, Sakskøbing, brand i lagerbygning (juli), kun beredskabsmeddelelse
+2011, Helsinge, brand i fabrik (august)
+2011, København/Nordsjælland, oversvømmelser (august), kun beredskabsmeddelelser
+2011, København, vandforurening (august), kun beredskabsmeddelelser
+2011, Randers, brand i industribygning (august)
+2011, Vejen, brand i møbelfabrik (september), kun beredskabsmeddelser
+2011, København, brand i KB-hallen (september), kun beredskabsmeddelser
+2011, Løgstør, brand i industribygning (oktober)
+2011, Køge, brand i lagerbygning (november)
+2011, Varde, brand i plastfabrik (december)
+2012, Holstebro, brand i Gråkjær Arena (januar)
+2012, Rømø, bombe fra 2. verdenskrig fundet (maj), kun beredskabsmeddelser
+2012, Haslev, industri brand (maj)
+2012, Holbæk, brand på Holbæk havn (maj)
+2012, København, Kemikalieudslip i virksomhed på Amager (juni), kun beredskabsmeddelelser
+2012, Gram, brand i glasfibervirksomhed (juni), kun beredskabsmeddelelser
+2012, Århus, Miltbrand i bakterier i heroin (juli), kun beredskabsmeddelelser
+2012, Kolding, brand i boligkompleks (september)
+2012, Stenderup, brand på kemikalie fabrik (november)
+2013, Odense, industribrand (marts)
+2013, Nyborg, lugtgener fra kemikalievirksomhed (marts), kun beredskabsmeddelelser
+2013, Albertslund, brand i daginstitution (marts), kun beredskabsmeddelelse
+2013, Odense, brand i gartneri (marts), kun beredskabsmeddelelse
+2013, Odense, brand i gartneri (marts), kun beredskabsmeddelelse
+2013, Augustenborg, brand i trykkeri (maj), kun beredskabsmeddelelse
+2013, Aarhus, brand i genbrugsanlæg (maj)
+2013, Grindsted, kemikalieudslip (juni), kun beredskabsmeddelelse
+2013, Frederiksværk, brand i affaldsoplag (juni), kun beredskabsmeddelelse
+2013, Holstebro, brand i spånpladelager (august), kun beredskabsmeddelelse
+2013, København, brand i medicinalfirma (august), kun beredskabsmeddelelse
+2013, Størstedelen af landet, stærk storm (oktober), kun beredskabsmeddelelse
+2013, Nørreballe, brand i villa (november), kun beredskabsmeddelelse
+2013, Thorsminde, risiko for stormflod i forbindelse med storm (december), kun beredskabsmeddelelse
+2013, Nordsjælland, risiko for digebrud og oversvømmelse i forbindelse med storm (december), kun beredskabsmeddelelse
+2013, Nørresundby, brand og kemikalieudslip (december), kun beredskabsmeddelelse
+2014, Aabenraa, brand i lystbådehavn (januar)
+2014, Frederikssund, brand i autolakeringsvirksomhed (marts)
+2014, Svebølle, brand i affaldsoplag (april), kun beredskabsmeddelelse
+2014, Odense, brand i tagpap-tag i tom bygning (april), kun beredskabsmeddelelse
+2014, Højby, brand i autoværksted (maj), kun beredskabsmeddelelse
+2014, Ringsted, brand i autoværksted (maj), kun beredskabsmeddelelse
+2014, Lunderskov, brand i lagerbygning (juni), kun beredskabsmeddelelse
+2014, Odense, brand i skrotoplag (juni), kun beredskabsmeddelelse
+2014, Brabrand, brand i etageejendom (juni)
+2014, Langeland, brand i lade (juni), kun beredskabsmeddelelse
+2014, Hornsyld, brand på genbrugstation (juni), kun beredskabsmeddelelse
+2014, Søndersø, brand i autoværksted (juni), kun beredskabsmeddelelse
+2014, Ishøj, brand i børnehave (juli)
+2014, Tølløse, brud på brændstofledning (juli)
+2014, Jyllinge, brand i idrætshal (juli)
