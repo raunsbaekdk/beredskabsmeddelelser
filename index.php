@@ -161,7 +161,7 @@ $months = array('januar' => '01', 'februar' => '02', 'marts' => '03', 'april' =>
 		<div class="container">
 			<div class="row">
 				<div class="page-header">
-					<h1 id="timeline">Timeline over beredskabsmeddelelser</h1>
+					<h1 id="timeline">Timeline over Beredskabsmeddelelser</h1>
 				</div>
 				<ul class="timeline">
 					<?php
